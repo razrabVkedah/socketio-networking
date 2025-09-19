@@ -187,6 +187,4 @@ public class Health : ClientSocketIO.NetworkBehaviour.NetworkMonoBehaviour
 
 ---
 
-### Автор
-
-**Rusleo** — Unity Developer / VFX Artist
+✦ Автор: [Rusleo](https://github.com/razrabVkedah)
