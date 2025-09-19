@@ -1,7 +1,7 @@
 {
   "name": "com.rusleo.socketio-networking",
   "displayName": "Rusleo Socket.IO Networking",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2021.3",
   "description": "Лёгкая клиент-серверная сеть для Unity на Socket.IO: комнаты, RPC через атрибуты, сетевые переменные с интерполяцией, буфер состояний и пинг.",
   "keywords": [
@@ -20,11 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/razrabVkedah/Rusleo.SocketIO.Networking.git"
+    "url": "https://github.com/razrabVkedah/socketio-networking.git"
   },
-  "documentationUrl": "https://github.com/razrabVkedah/Rusleo.SocketIO.Networking#readme",
-  "changelogUrl": "https://github.com/razrabVkedah/Rusleo.SocketIO.Networking/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/razrabVkedah/Rusleo.SocketIO.Networking/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/razrabVkedah/socketio-networking/blob/main/Documentation~/Main.md",
+  "licensesUrl": "https://github.com/razrabVkedah/socketio-networking/blob/main/LICENSE",
   "samples": [
     {
       "displayName": "Lobby & Rooms Demo",
