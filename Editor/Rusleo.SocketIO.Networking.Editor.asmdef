@@ -1,0 +1,18 @@
+{
+    "name": "Rusleo.SocketIO.Networking.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:03e1745dd08bac34489423f13f59c1d7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

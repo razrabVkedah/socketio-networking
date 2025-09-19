@@ -1,0 +1,18 @@
+{
+    "name": "Rusleo.SocketIO.Networking.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9c640a58f2e0db141b0e87cea61a002e",
+        "GUID:9069ac25d95ca17448a247f3bb1c769f",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

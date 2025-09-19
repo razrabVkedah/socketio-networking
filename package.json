@@ -1,0 +1,38 @@
+{
+  "name": "com.rusleo.socketio-networking",
+  "displayName": "Rusleo Socket.IO Networking",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Лёгкая клиент-серверная сеть для Unity на Socket.IO: комнаты, RPC через атрибуты, сетевые переменные с интерполяцией, буфер состояний и пинг. Клиент — Unity/C# (UPM), сервер — Node.js (в отдельном репо/папке).",
+  "keywords": [
+    "networking",
+    "socket.io",
+    "rpc",
+    "multiplayer",
+    "sync",
+    "interpolation",
+    "unity"
+  ],
+  "category": "Networking",
+  "author": {
+    "name": "Rusleo",
+    "url": "https://github.com/razrabVkedah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/razrabVkedah/Rusleo.SocketIO.Networking.git"
+  },
+  "documentationUrl": "https://github.com/razrabVkedah/Rusleo.SocketIO.Networking#readme",
+  "changelogUrl": "https://github.com/razrabVkedah/Rusleo.SocketIO.Networking/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/razrabVkedah/Rusleo.SocketIO.Networking/blob/main/LICENSE",
+  "samples": [
+    {
+      "displayName": "Lobby & Rooms Demo",
+      "description": "Пример лобби с входом в комнату и показом пинга.",
+      "path": "Samples~/Demo"
+    }
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
